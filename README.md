@@ -2,7 +2,7 @@
 
 # Alienify/Zombify Yourself!
 
-This code builds on [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) and Justin Pinkney's idea of blending the orininal StyleGAN2 and and the same network but fine-tuned on another dataset (e.g. aliens and zombies). You can train the network on your own dataset.
+This code builds on [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) and was inspired by [Apocalyptify](https://huggingface.co/spaces/Norod78/Apocalyptify). It blends the orininal StyleGAN2 and the same network but fine-tuned on another dataset (e.g. aliens and zombies). You can train the network on your own dataset.
 
 ## Quick start
 For quick start, run the [Colab notebook](https://colab.research.google.com/drive/1o6gsTHuA3G-FHohRN0lFquZX76eYRn50#scrollTo=mzog4xryYODB) hassle-free. If you have serious GPU compute, use it. Clone this notebook, make sure you have the right version dependencies, download the data (see the top of the Colab notebook).
@@ -22,4 +22,8 @@ You can also fine-tune StyleGAN2 on a dataset of aliens and zombies, transplant 
 Watch on YouTube:
 
 [<p align=center><img alt="alt_text" width="400px" src="https://i.ytimg.com/vi/V1-cEnOjnnI/hqdefault.jpg" /></p>](https://www.youtube.com/embed/V1-cEnOjnnI)
+
+## Credits
+
+Thanks to [Doron Adler](https://twitter.com/Norod78).
 
