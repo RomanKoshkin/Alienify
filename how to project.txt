@@ -1,3 +1,0 @@
-how to project
-
-python projector.py --outdir=out --target=kuseka.png --network=https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl
