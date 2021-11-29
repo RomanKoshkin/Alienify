@@ -16,3 +16,10 @@ You can project a real target image (left) to the latent space and then back-pro
 You can also fine-tune StyleGAN2 on a dataset of aliens and zombies, transplant some of its layers to the original StyleGAN2 trained on [FFHQ](https://github.com/NVlabs/ffhq-dataset) and get some creepy pictures!
 
 ![alt text](assets/im2.png)
+
+### Latent space interpolation
+
+Watch on YouTube:
+
+[<p align=center><img alt="alt_text" width="400px" src="https://i.ytimg.com/vi/V1-cEnOjnnI/hqdefault.jpg" /></p>](https://www.youtube.com/embed/V1-cEnOjnnI)
+
