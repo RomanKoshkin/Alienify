@@ -9,7 +9,7 @@ For quick start, run the [Colab notebook](https://colab.research.google.com/driv
 
 ### Projections
 
-You can project a real target image (left) to the latent space and then back-project that latent represenation back to pixel space using different version of StyleGAN2, e.g. the orinal (middle) or fine-tuned on Pixar characters (right).
+You can project a real target image (left) to the latent space and then back-project that latent represenation to pixel space using a different version of StyleGAN2, e.g. the original (middle) or fine-tuned on Pixar characters (right).
 
 ![alt text](assets/im1.png)
 
