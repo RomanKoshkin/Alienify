@@ -5,7 +5,7 @@
 This code builds on [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch) and was inspired by [Apocalyptify](https://huggingface.co/spaces/Norod78/Apocalyptify). It blends the orininal StyleGAN2 and the same network but fine-tuned on another dataset (e.g. aliens and zombies). You can train the network on your own dataset.
 
 ## Quick start
-For quick start, run the [Colab notebook](https://colab.research.google.com/drive/1o6gsTHuA3G-FHohRN0lFquZX76eYRn50#scrollTo=mzog4xryYODB) hassle-free. If you have serious GPU compute, use it. Clone this notebook, make sure you have the right version dependencies, download the data (see the top of the Colab notebook).
+For quick start, run the [Colab notebook](https://colab.research.google.com/drive/1o6gsTHuA3G-FHohRN0lFquZX76eYRn50#scrollTo=mzog4xryYODB) hassle-free. If you have serious GPU compute, use it. Clone this repo, make sure you have the right version dependencies, download the data (see the top of the Colab notebook). Open an issue if something doesn't work.
 
 ### Projections
 
